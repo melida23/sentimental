@@ -16,7 +16,11 @@ An interactive Streamlit-based web application for performing multilingual senti
 ---
 
 ## 🖼️ Demo
+   Deployed app link:https://sentimental-7lazj7jmarilhqx5qrpx7c.streamlit.app/
+---
+##Screenshots
 
+![Part 1](https://github.com/user-attachments/assets/b31fa4e1-196f-42ea-9605-8f1da475e18e)
 
 
 ---
